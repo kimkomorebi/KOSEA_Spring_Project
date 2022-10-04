@@ -1,0 +1,11 @@
+package sample3;
+
+public class Sato implements Human {
+	private String name;
+	
+	@Override
+	public void has() {
+		
+	}
+
+}

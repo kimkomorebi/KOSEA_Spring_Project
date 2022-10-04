@@ -1,0 +1,11 @@
+package sample3;
+
+public class Gobayasi implements Human {
+	private String name;
+	private Item item;
+	@Override
+	public void has() {
+		
+	}
+
+}

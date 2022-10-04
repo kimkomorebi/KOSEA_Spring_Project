@@ -1,0 +1,9 @@
+package sample3;
+
+public class Danaka implements Human {
+
+	@Override
+	public void has() {
+		
+	}
+}

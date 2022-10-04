@@ -1,0 +1,11 @@
+package sample3;
+
+public class Gobayasi implements Human {
+
+	@Override
+	public void has() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

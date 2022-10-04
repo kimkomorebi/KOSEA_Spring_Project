@@ -1,0 +1,11 @@
+package sample3;
+
+public class Notebook implements Item {
+
+	@Override
+	public void showName() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
